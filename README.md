@@ -1,4 +1,4 @@
-#Lucky Mayor SandBox Player
+Lucky Mayor SandBox Player
 ------
 
 
