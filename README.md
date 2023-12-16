@@ -45,3 +45,5 @@ Lucky Mayor SandBox Player
     ```
 
    6. `Presentation` 这个是游戏UI表现相关的模块，里面会有处理人物动画，资源加载的相关功能。
+
+   Now you can play around with it!
